@@ -20,7 +20,7 @@ My primary mission is bringing my flagship IoT and iOS projects to a polished, c
 ---
 ### Other Projects
 
-* **News - A Focused RSS Reader for iOS** [https://github.com/benasja/news](https://github.com/benasja/news) - A native SwiftUI application designed to provide a clean, user-curated reading experience without algorithmic feeds.
+* **News - A Focused RSS Reader for iOS** [News](https://github.com/benasja/news) - A native SwiftUI application designed to provide a clean, user-curated reading experience without algorithmic feeds.
 * **Deliveries Work Analyzer (2024)** [View Analysis](https://github.com/benasja/food/) - A Python tool using Google Colab that analyzes work data to identify the most profitable hours, increasing my own work efficiency.
 
 ---
