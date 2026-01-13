@@ -1,25 +1,11 @@
-# Benas Januševičius | Electronics Engineering & IoT Development
+# Benas Januševičius | Electronics Engineering 
 
-A results-driven final-year engineering student at KTU, specializing in embedded systems and mobile development. I excel at transforming complex technical challenges into functional, real-world solutions by leveraging modern, AI-powered development workflows.
-
----
-### 💻 My Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7332A?style=flat-square&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+A results-driven final-year electronics engineering student at KTU.
 
 ---
-### 🌱 I'm Currently Focused On:
+### I'm Currently Focused On:
 
-My primary mission is bringing my flagship IoT and iOS projects to a polished, completed state for my professional portfolio.
+My primary mission is bringing my flagship IoT and iOS projects to a polished, completed state.
 
 ---
 ### 🔧 Featured Projects
